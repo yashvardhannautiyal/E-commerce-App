@@ -6,7 +6,7 @@ import Contact from "./Components/Contact";
 import SingleProduct from "./Components/SingleProduct";
 import Cart from "./Components/Cart";
 import ErrorPage from "./Components/ErrorPage";
-import Header from "./Components/Header";
+import Header from "./Components/Header/Header";
 import Products from "./Components/Products";
 
 function App() {
